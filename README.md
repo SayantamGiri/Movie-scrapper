@@ -1,4 +1,4 @@
 # MovieDB Scrapper
 written in C++
 
-this is my Semester Final Project for OOP Course. you can search for movies and it fetches data from MovieDB site using CURL.
+This is the fourth Semester course for OOP Course. You can search for movies and it fetches data from MovieDB site using CURL.
